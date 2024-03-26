@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\renaa\OneDrive\Documentos\Projetos\ws-eclipse\.metadata\.plugins\org.eclipse.jdt.core
+2585865444.index
+1865797976.index
+1686408038.index
+1855244170.index
+3692026397.index
